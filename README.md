@@ -9,12 +9,11 @@
 https://github.com/user-attachments/assets/0802c6aa-9702-4949-8ad9-06b37eb89f37
 
 
-
-- You won't be able to just use this bot by downloading this repository, this is a demo code
-- 
 # Clicker Mini App for Telegram - Copy Tapswap, Notcoin, Hamster
 
 **We create Clicker games in Mini App Telegram.**
+
+You won't be able to just use this bot by downloading this repository, this is a demo code
 
 We are a development team from HongKong and we can clone and customize popular crypto clicker games like Tapswap, Hamster and Notcoin or create a hybrid game that combines their best features!
 
