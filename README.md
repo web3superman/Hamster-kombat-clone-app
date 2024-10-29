@@ -43,7 +43,7 @@ We can install ready-made solutions for you, or make you a unique clicker with a
 
 **Price from $1000 and depends on your request.** More details: https://t.me/appRegister
 
-## 💎 Benefits work with W3Lab:
+## 💎 Benefits work with APITeam:
 
 - We always work for results
 - Attention to target audience
